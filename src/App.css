@@ -1,0 +1,16 @@
+.form {
+    display: grid;
+    grid-template-columns: 300px 300px;
+    gap: 0.5rem;
+}
+
+input {
+    width: 50%;
+}
+
+.user-detail-card {
+    padding: 10px;
+    background-color: #eeeeee;
+    border: 2px solid khaki;
+    margin-bottom: 10px;
+}
